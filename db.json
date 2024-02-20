@@ -1,5 +1,5 @@
 {
-  "post_tasks": [
+  "posts": [
     { "id_message": "1", "task_message": "a comment about post 1"},
     { "id_message": "2", "task_message": "another comment about post 1"}
   ],
