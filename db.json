@@ -1,8 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "post_tasks": [
+    { "id_message": "1", "task_message": "a comment about post 1"},
+    { "id_message": "2", "task_message": "another comment about post 1"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
